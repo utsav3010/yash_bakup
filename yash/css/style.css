@@ -1,0 +1,22 @@
+body
+{
+    background: url('../image/image1.jpg') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.c_1
+{
+   width: 50%;
+   height: auto;
+   background-color: white;
+   margin: auto; 
+   padding: 10px;
+   margin-top: 1%;
+   
+}
+
+/* margin
+ 1st: right 
+ 2nd: top 
+ 3rd: bottom 
+ 4th: left */
