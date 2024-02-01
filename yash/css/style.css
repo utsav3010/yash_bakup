@@ -1,0 +1,48 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    background-color: #000000;
+}
+#content
+{
+    width: 50%;
+    height: 400px;
+    margin: auto;
+    margin-top: 10%;
+    background-color: #cf4135;
+}
+.logo-name
+{
+    width: 20%;
+    height: auto;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    margin-left: 35%;
+}
+.logo-name img
+{
+    width: 30%;
+    height: 50px;
+    margin-top: 60%;
+    margin-left: 5%;
+    border-radius: 50px;
+}
+.logo-name h1
+{
+    color: white;
+    margin-top: 69.5%;
+    margin-left: 2%;
+}
+.color-image
+{
+    width: 50%;
+    height: 100px;
+    background-color: #a22014;
+    margin: auto;
+    margin-top: 2%;
+    border-radius: 70px;
+}
